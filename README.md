@@ -49,6 +49,7 @@ You will need to create a `.env` file in the root directory of this application.
     * **RC_ENVIRONMENT=** Either `sandbox` -OR- `production`
     * **RC_API_BASE_URL=** Only change when your application receives production access
     * **RC_CACHE_PREFIX=** To identify that it is an RC Account for the platform object
+    * **RC_FORWARDING_NUMBER=Forwarding-Number ( E.164 format ) Provide the Forwarding number in the E.164 format
 
 
 ## Operation
