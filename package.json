@@ -1,0 +1,29 @@
+{
+  "name": "updateforwardingnumber-sample",
+  "version": "1.0.0",
+  "description": "Sample app to update the Forwarding Numbers via Ringcentral API's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anil.kumar@ringcentral.com",
+  "license": "ISC",
+  "contributors": [
+    {
+      "name": "Anil Kumar"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://developer.ringcentral.com/api-docs/latest/index.html#!#Notifications.html",
+  "dependencies": {
+    "rcsdk": "3.0.0-rc1",
+    "simple-node-logger": "^0.93.12"
+  }
+
+}
